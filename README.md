@@ -47,3 +47,6 @@ The following functionalities have been automated:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/HasanShaik1003/Automation.git
+2. **Execute testng.xml file**
+    After adding config.properties file into the project (config directory) execute testng.xml from resources directory 
+
